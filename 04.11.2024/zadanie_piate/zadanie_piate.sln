@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zadanie_piate", "zadanie_piate\zadanie_piate.vcxproj", "{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Debug|x64.ActiveCfg = Debug|x64
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Debug|x64.Build.0 = Debug|x64
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Debug|x86.Build.0 = Debug|Win32
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Release|x64.ActiveCfg = Release|x64
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Release|x64.Build.0 = Release|x64
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Release|x86.ActiveCfg = Release|Win32
+		{F2393E4F-2D8C-46FE-AD24-2A843D155EEF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C23D9BA8-8B3A-4A87-9C35-2C2B4D8FC8C4}
+	EndGlobalSection
+EndGlobal

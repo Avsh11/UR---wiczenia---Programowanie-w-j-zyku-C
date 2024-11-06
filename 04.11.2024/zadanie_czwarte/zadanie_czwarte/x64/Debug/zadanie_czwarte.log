@@ -1,0 +1,3 @@
+﻿  zadanie_czwarte.c
+C:\Users\PC\Desktop\Zadanie 04.11.2024\zadanie_czwarte\zadanie_czwarte\zadanie_czwarte.c(12,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zadanie_czwarte.vcxproj -> C:\Users\PC\Desktop\Zadanie 04.11.2024\zadanie_czwarte\x64\Debug\zadanie_czwarte.exe
